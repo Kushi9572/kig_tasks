@@ -44,7 +44,7 @@ nav ul {
 }
 .nav-item {
     font-size: 20px;
-    text-align: justify;
+    text-align: center;
 
 }
 h1{
@@ -79,7 +79,7 @@ p{
 
     height: 0px;
     padding-top: 20px;
-    padding-bottom:20px ;
+    padding-bottom:30px ;
     padding-left: 20px;
     text-align: center;
     font-size: 15px;
