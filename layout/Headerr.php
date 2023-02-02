@@ -52,7 +52,7 @@ h1{
 }
 h2{
     background-color:#EF92D5;
-    height: 107px;
+    height: 0px;
     padding-top: 20px;
     padding-bottom:20px ;
     padding-left: 20px;
