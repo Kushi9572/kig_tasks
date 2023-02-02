@@ -42,6 +42,11 @@ nav li:last-child {
 nav ul {
     padding-left: 0;    
 }
+.nav-item {
+    font-size: 20px;
+    text-align: justify;
+
+}
 h1{
     font-size: 20px;
     text-align: justify;
