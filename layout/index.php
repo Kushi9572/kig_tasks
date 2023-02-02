@@ -17,5 +17,8 @@
     facilis, quae veritatis possimus minima quaerat repellendus cum sequi odio molestias iste tenetur ducimus?
 </p>
 
+<p> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nam commodi aspernatur labore. Exercitationem veritatis, 
+    dolorum excepturi deleniti eveniet labore libero officiis quam qui incidunt sint autem velit minima, hic unde?
+</p>
 
 <?php include "footer.php" ?>
