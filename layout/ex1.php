@@ -43,6 +43,9 @@ echo "
 ";
 ?>
 
+<h4>4 Screenshot of the development environment </h4>
+   <img src="docker.png" alt="docker Screenshot" style="width:60%">
+
 <?php include "footer.php" ?>
 
 
