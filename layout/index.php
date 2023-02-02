@@ -1,24 +1,12 @@
-<?php include "header.php" ?>
+<!DOCTYPE html>
+<?php include "Headerr.php" ?>
+    <h3><h2><b>We are group of teachers  who really  love children's and enjoy every moment of teaching and playing with 
+        our students.</b></h3>
 
-<h1> Some contects </h1>
-<p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam praesentium hic facere numquam accusantium, 
-    expedita nostrum quasi voluptate odit, quod dolore illo harum beatae, dolor corrupti quos assumenda cupiditate id.
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim assumenda beatae ex, dolorum nulla minima error et quas
-    quo adipisci aut, nemo quasi? Eius et sed aliquam, soluta tenetur natus.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Incidunt, beatae voluptas cumque nam qui amet distinctio, 
-    facilis, quae veritatis possimus minima quaerat repellendus cum sequi odio molestias iste tenetur ducimus?
-</p>
+ 
+   <img src="home.png" alt="home page" style="width:60%">
 
-<p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam praesentium hic facere numquam accusantium, 
-    expedita nostrum quasi voluptate odit, quod dolore illo harum beatae, dolor corrupti quos assumenda cupiditate id.
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim assumenda beatae ex, dolorum nulla minima error et quas
-    quo adipisci aut, nemo quasi? Eius et sed aliquam, soluta tenetur natus.
-    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Incidunt, beatae voluptas cumque nam qui amet distinctio, 
-    facilis, quae veritatis possimus minima quaerat repellendus cum sequi odio molestias iste tenetur ducimus?
-</p>
+<?php include "Footer1.php" ?>
 
-<p> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nam commodi aspernatur labore. Exercitationem veritatis, 
-    dolorum excepturi deleniti eveniet labore libero officiis quam qui incidunt sint autem velit minima, hic unde?
-</p>
 
-<?php include "footer.php" ?>
+
