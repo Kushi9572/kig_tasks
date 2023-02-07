@@ -87,4 +87,7 @@
     echo "Your User Agent is :" . $_SERVER ['HTTP_USER_AGENT'];
 ?>
 
- 
+<h2> 7. Write a PHP script in the footer section of your universal footer just below the Copyright information 
+  to display the last modification time of a file. </h2>
+
+  <?php include "footer.php" ?>

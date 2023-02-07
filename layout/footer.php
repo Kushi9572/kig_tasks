@@ -5,6 +5,9 @@
 
   <!-- Copyright -->
   <div class="footer-copyright text-center py-3">© 2020 Copyright
+  <?php 
+  echo "Last modified on " . date('l, jS \of F, Y, h:i:s A');
+  ?>
   </div>
   <!-- Copyright -->
 
