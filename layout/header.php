@@ -31,7 +31,7 @@
           <a class="nav-link" href="ex1.php">Exercise 1</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="about us.php">About us</a>
+          <a class="nav-link" href="Variable.php">Exercise 3</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="contact us.php">Contact us</a>
