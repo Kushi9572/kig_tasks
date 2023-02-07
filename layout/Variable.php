@@ -60,4 +60,14 @@
       <td>5</td>
     </tr>
   </tbody>
-</table>    
+</table>
+<h2> 4. Write a PHP script with two string variables. Assign any text to these variables. Join them together. 
+    Print the length of the string. (Hint: string function) </h2>
+
+<?php
+    $subject = "My name is";
+    $name1 = "Kushani";
+    $detail = $subject.$name1;
+    echo $subject . " " . $name1;
+    echo ". Length is " .strlen($detail);
+?>
