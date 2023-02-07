@@ -71,3 +71,20 @@
     echo $subject . " " . $name1;
     echo ". Length is " .strlen($detail);
 ?>
+<h2>5. Write a script to add up the numbers: 298, 234, 46. Use variables to store these numbers and echo statement to output your answer.</h2> 
+
+<?php
+    $num1 = 298;
+    $num2 = 234;
+    $num3 = 46;
+    $sum = $num1 + $num2 + $num3;
+    echo "Total " .($sum)
+?>
+
+<h2> 6. Write a PHP script to detect the browser being used to view your pages. (Use predefined variables: $_SERVER). </h2>
+
+<?php
+    echo "Your User Agent is :" . $_SERVER ['HTTP_USER_AGENT'];
+?>
+
+ 
