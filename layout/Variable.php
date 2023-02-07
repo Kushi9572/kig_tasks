@@ -27,3 +27,37 @@
         <input type="submit" value="submit">
 
     </form>
+
+<h2>3. Prepare a simple html table and apply bootstrap style to the table.
+    You may use the same table that you did in 3.5.</h2>
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">S.N</th>
+      <th scope="col">First Name</th>
+      <th scope="col">Last Name</th>
+      <th scope="col">Grade</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Kushani</td>
+      <td>Gnanathilaka</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Sonali</td>
+      <td>Abeyrathna</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Shammi</td>
+      <td>Premarathna</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>    
