@@ -53,5 +53,8 @@
     <div class="col-sm-3" style="background-color: rgba(228, 235, 194, 0.353);">
       <h3>List of Tasks</h3>
       some thing here
+      <h3>Simple CRUD APP</h3>
+      <h3>Simple CRUD APP-In Class</h3>
     </div>
+ 
     <div class="col-sm-9">

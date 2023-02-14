@@ -35,3 +35,5 @@ else{
         echo "Error:" . $conn->error;
 }
 }
+include '../layout/footer.php';
+?>
