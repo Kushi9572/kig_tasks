@@ -1,6 +1,6 @@
 <?php
 $title = "A simple CRUD app";
-include "../layout/header.php";
+include '../layout/header.php';
 ?>
 <form method="post" action="">
     <input type ="text"name="fname" placeholder="First Name" required ><br><br>
