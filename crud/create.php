@@ -1,6 +1,6 @@
 <?php
 $title = "A simple CRUD app";
-include "kig_tasks/layout/header.php";
+include "../layout/header.php";
 ?>
 <form method="post" action="">
     <input type ="text"name="fname" placeholder="First Name" required ><br><br>
